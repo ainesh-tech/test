@@ -63,7 +63,7 @@ function draw(){
 
     bird.display();
     platform.display();
-    //log6.display();
+    
     slingshot.display();    
 }
 
